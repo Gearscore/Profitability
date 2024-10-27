@@ -157,4 +157,4 @@ elif game.is_computer_win:
     print("Все получится, со временем")
 else:
     print("Ничья.")
-# hi
+#
